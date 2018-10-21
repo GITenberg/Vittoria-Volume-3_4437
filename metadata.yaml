@@ -1,5 +1,5 @@
 _repo: Vittoria-Volume-3_4437
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -28,5 +28,6 @@ subjects:
 - !lcsh 'Historical fiction'
 - !lcc 'PR'
 - !lcsh 'War stories'
+- GITenberg
 title: Vittoria — Volume 3
 url: http://www.gutenberg.org/ebooks/4437
